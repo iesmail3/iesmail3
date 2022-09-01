@@ -1,7 +1,10 @@
-- 👋 Hi, welcome to my page! 
+# Welcome to my Page
+
+- 👋 Hi, my name is Imran 
 - 👀 I’m interested in Flutter, React, React Native, Javascript, Java
 - 🌱 I’m currently learning React and React native 
-- 📫 How to reach me: esmailimran3@gmail.com
+- 🔒 Some of my repositories are private because they are actual client projects. 
+- 📫 Shoot me an email at esmailimran3@gmail.com
 
 📈 My Github Stats:  
 -----
