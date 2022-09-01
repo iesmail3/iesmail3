@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning React and React native 
 - 📫 How to reach me: esmailimran3@gmail.com
 
-📈 My Github Stats:
+📈 My Github Stats:  
+
 
 [![Imran's Github Stats](https://github-readme-stats.vercel.app/api?username=iesmail3)](https://github.com/iesmail3/github-readme-stats)
 
 
-👨🏽‍💻 Languages I use most:
+👨🏽‍💻 Languages I use most: <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iesmail3)](https://github.com/iesmail3/github-readme-stats)
 
